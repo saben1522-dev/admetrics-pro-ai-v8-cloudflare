@@ -1,0 +1,10 @@
+{
+  "name": "admetrics-pro-ai-v8-cloudflare-free",
+  "version": "8.0.1",
+  "private": true,
+  "description": "AdMetrics Pro AI V8 - Cloudflare Pages + Functions + D1 free deployment",
+  "scripts": {
+    "build": "node -e \"console.log('Static Pages build: no compilation required')\""
+  },
+  "engines": { "node": ">=18" }
+}
